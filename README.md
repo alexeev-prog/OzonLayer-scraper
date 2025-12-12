@@ -1,2 +1,2 @@
 # OzonLayer-scraper
-Python package for scrapping Ozon
+Python-пакет для парсинга озона
