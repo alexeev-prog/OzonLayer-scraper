@@ -1,5 +1,5 @@
 [webdriver]
-path = "/nix/store/8g7r5x2lssp6rmdghw7bss77gx6fhsda-undetected-chromedriver-138.0.7204.157/bin/undetected-chromedriver"
+binarypath = "/nix/store/8g7r5x2lssp6rmdghw7bss77gx6fhsda-undetected-chromedriver-138.0.7204.157/bin/undetected-chromedriver"
 
 [parsing]
 
